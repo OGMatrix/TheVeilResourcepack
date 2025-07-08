@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraft:block/wall_torch",
+      "lightLevel": 8
+    },
+    "facing=south": {
+      "model": "minecraft:block/wall_torch",
+      "y": 180,
+      "lightLevel": 8
+    },
+    "facing=east": {
+      "model": "minecraft:block/wall_torch",
+      "y": 90,
+      "lightLevel": 8
+    },
+    "facing=west": {
+      "model": "minecraft:block/wall_torch",
+      "y": 270,
+      "lightLevel": 8
+    }
+  }
+}

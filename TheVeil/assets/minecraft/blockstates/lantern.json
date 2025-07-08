@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "minecraft:block/lantern",
+      "lightLevel": 10
+    },
+    "hanging=true": {
+      "model": "minecraft:block/lantern_hanging",
+      "lightLevel": 10
+    }
+  }
+}
